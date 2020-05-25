@@ -8,6 +8,8 @@ This is an example to show different websites
 
 ## Purpose
 
+Purpose for README.md
+
 ## Deployment
 
 ## How to Contribute
